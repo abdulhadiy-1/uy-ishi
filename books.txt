@@ -1,0 +1,3 @@
+1,Book A,Avtor A,0,2000
+2,Book B,Avtor B,3,1500
+3,Book C,Avtor C,1,2500
